@@ -1,3 +1,3 @@
 # gamevuejs
 
-###vue js は面白い！！！
+### vue js は面白い！！！
